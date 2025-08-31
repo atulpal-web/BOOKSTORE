@@ -1,0 +1,107 @@
+[
+    {
+        "id": "1",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    },
+
+
+    {
+        
+        "id": "2",
+        "name": "Comedy Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 20,
+        "category": "Free",
+        "image": "../public/banner.png"
+    },
+
+
+    {
+        "id": "3",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    },
+
+
+        {
+        "id": "4",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+        },
+
+
+        {
+        "id": "5",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    },
+
+
+        {
+        "id": "6",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+    },
+
+    {
+
+        "id": "7",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    },
+     {
+
+        "id": "8",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    },
+     {
+
+        "id": "9",
+        "name": "Story Book",
+        "title": "A Journey Through Time",
+        "description": "A collection of short stories for children.",
+        "price": 0.00,
+        "category": "Free",
+        "image": "../public/banner.png"
+
+    }
+]
+
+
